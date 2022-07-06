@@ -1,1 +1,29 @@
 /* styles go here */
+/* .number {
+  width: 70px;
+  padding: 0 10px;
+} */
+
+fieldset > div {
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.margin0 {
+  margin-bottom: 0;
+}
+
+select {
+  /* margin-bottom: 10px; */
+}
+
+.time {
+  width: 100px;
+}
+
+/* .mrg10 {
+  margin-bottom: 4px;
+} */
